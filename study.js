@@ -1,3 +1,6 @@
-const you = always;
+const x = me;
+const y = you;
 
-console.log(you);
+let our = x + y;
+
+console.log(our);
